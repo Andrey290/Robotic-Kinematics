@@ -63,5 +63,4 @@ endif()
 # Опционально: defines
 target_compile_definitions(robotcontrol PRIVATE DEFAULT_N_LINKS=6 DH_COLS=4 _USE_MATH_DEFINES)
 
-# Удобные цели для установки/тестов можно добавить позже
 
